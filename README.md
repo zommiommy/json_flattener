@@ -1,6 +1,8 @@
 # json_flattener
 A python package to flatten a JSON into a list of strings and back
 
+Once I find a free name on `PyPi` this package will be available on `pip`.
+
 ```python
 > from flatten_json import flatten_json
 
